@@ -17,3 +17,6 @@ Adding the audio call feature
 Adding the video call feature
 
 Adding status so that user can play train games
+
+Adding the emojis feature on messages
+
