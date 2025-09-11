@@ -8,7 +8,7 @@ Author: Viswanath
 
 3. Last Seen Code
 
-4. Attachments (Image , Audio , Video) Code
+4. Attachments (Image , Audio , Video, Documents) Code
 
 5. Hiding the last seen
 
@@ -19,3 +19,4 @@ Adding the video call feature
 Adding status so that user can play train games
 
 Adding emojis on messages
+
